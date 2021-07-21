@@ -12,7 +12,7 @@ security:
             client-secret: samplepassword
         resource:
             jwt:
-                key-value: sadfadsfads
+                key-value: samplejwt
 spring:
     application:
         name: gateway
