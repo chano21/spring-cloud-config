@@ -4,7 +4,7 @@ eureka:
             defaultZone: http://localhost:9600/eureka/
 logging:
     level:
-        root: warn
+        root: debug
 security:
     oauth2:
         client:
