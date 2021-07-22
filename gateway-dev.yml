@@ -20,6 +20,7 @@ zuul:
     routes:
         first:
             path: /first/**
+            url: http://localhost:9800
             strip-prefix: true
         second:
             path: /second/**
